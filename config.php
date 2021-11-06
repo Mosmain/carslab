@@ -1,10 +1,4 @@
 <?php
-//
-//try {
-//	$pdo = new PDO('mysql:dbname=cars_lab_02; host=localhost', 'root', '');
-//} catch (PDOException $e) {
-//	die($e->getMessage());
-//}
 
 class DB{
     private $dbHost     = "localhost";
