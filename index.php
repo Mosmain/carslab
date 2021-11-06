@@ -9,7 +9,7 @@ $tblName = 'cars';
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Машинки ООП</title>
+	<title>Машины таблица</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="assets/fontawesome/css/all.css">
