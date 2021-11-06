@@ -44,8 +44,8 @@ $tblName = 'cars';
 							<td><?=$cars['weight'] ?></td>
 							<td><?=$cars['hp'] ?></td>
 							<td>
-								<a href="?edit=<?=$cars['id'] ?>" class="btn btn-success btn-sm" data-toggle="modal" data-target="#editModal<?=$cars['id'] ?>"><i class="fa fa-edit"></i></a>
-								<a href="?delete=<?=$cars['id'] ?>" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#deleteModal<?=$cars['id'] ?>"><i class="fa fa-trash"></i></a>
+								<a href="?edit=<?=$cars['id'] ?>" class="btn btn-success btn-m" data-toggle="modal" data-target="#editModal<?=$cars['id'] ?>"><i class="fa fa-edit"></i></a>
+								<a href="?delete=<?=$cars['id'] ?>" class="btn btn-danger btn-m" data-toggle="modal" data-target="#deleteModal<?=$cars['id'] ?>"><i class="fa fa-trash"></i></a>
 								<?php require 'modal.php'; ?>
 							</td>
 						</tr> <?php } ?>
