@@ -21,7 +21,7 @@ $tblName = 'cars';
 			<div class="col mt-1">
 				<?=$success ?>
 				<button class="btn btn-success mb-1" data-toggle="modal" data-target="#Modal"><i class="fa fa-plus"></i></button>
-				<table class="table shadow ">
+				<table class="table">
 					<thead class="thead-dark">
 						<tr>
 							<th>№</th>
