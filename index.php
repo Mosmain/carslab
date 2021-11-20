@@ -23,7 +23,7 @@ $tblName = 'cars';
             <button class="btn btn-success mb-1" data-toggle="modal" data-target="#Modal"><i class="fa fa-plus"></i>
             </button>
             <table class="table">
-                <thead class="thead-dark">
+                <thead class="thead-light shadow">
                 <tr>
                     <th>№</th>
                     <th>Бренд</th>
